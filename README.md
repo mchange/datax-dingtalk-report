@@ -48,4 +48,4 @@
 
 **通知效果：**
 
-![image](https://github.com/mchange/datax-dingtalk-report/blob/main/doc/1.jpg)
+![image](https://github.com/mchange/datax-dingtalk-report/blob/main/doc/1.png)
